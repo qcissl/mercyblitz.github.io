@@ -106,3 +106,5 @@ page-mathjax: false
 friends: [
     {}
 ]
+
+theme: jekyll-theme-cayman
